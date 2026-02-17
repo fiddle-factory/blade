@@ -1,4 +1,5 @@
 <br/>
+<br/>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./branding/blade-original-dark-mode.min.svg">
